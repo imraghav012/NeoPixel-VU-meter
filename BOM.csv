@@ -1,3 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$2.00,$2.00,https://jlcpcb.com/
+MAX4466,1,Amazon,$4.65,$4.65,https://www.amazon.com/GY-MAX4466-Electret-Microphone-Amplifier-Adjustable/dp/B0CP79MZK7/ref=sr_1_12
 Estimated total shipping,1,,,$0.00,

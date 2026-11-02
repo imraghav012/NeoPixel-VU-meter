@@ -5,7 +5,7 @@ The microcontroller it will use is the Seeeduino XIAO RP2040.
 The microphone it will use is the MAX4466.
 The LEDs it will use are the NeoPixel Stick - 8 x 5050 RGB LED with Integrated Drivers.
 
-<img width="832" height="519" alt="Screenshot 2026-11-01 at 1 13 09 PM" src="https://github.com/user-attachments/assets/4cc23b0f-e677-433a-b1e5-4279affa3acf" />
-<img width="848" height="449" alt="Screenshot 2026-11-01 at 1 39 10 PM" src="https://github.com/user-attachments/assets/2ebcc97f-4ee6-4b69-bbee-3bc57caf9689" />
-<img width="876" height="444" alt="Screenshot 2026-11-01 at 1 39 18 PM" src="https://github.com/user-attachments/assets/7cd16244-9254-49a4-8467-b61796554b5b" />
-<img width="987" height="560" alt="Screenshot 2026-11-01 at 1 39 30 PM" src="https://github.com/user-attachments/assets/e0bdc135-4839-4f33-8803-b72376fc60b1" />
+<img width="782" height="389" alt="Screenshot 2026-11-01 at 10 53 25 PM" src="https://github.com/user-attachments/assets/d7cf42b3-62b6-4bfb-ba25-0c415265ebdc" />
+<img width="808" height="314" alt="Screenshot 2026-11-01 at 10 53 32 PM" src="https://github.com/user-attachments/assets/0e3846d9-840e-4fc8-805c-6119e4086e82" />
+<img width="1079" height="536" alt="Screenshot 2026-11-01 at 10 53 40 PM" src="https://github.com/user-attachments/assets/359e6fef-3ad4-496e-8d7a-d6bb2ce8eb13" />
+<img width="865" height="462" alt="Screenshot 2026-11-01 at 10 53 48 PM" src="https://github.com/user-attachments/assets/de66f38e-62bd-46cf-97b3-3341ae499412" />
